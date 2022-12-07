@@ -1,0 +1,64 @@
+body{
+    background-image: url(kotisivu/images/nature.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+
+form{
+    width: 20%;
+    background-color: rgb(247, 202, 128);
+    border:1px solid black;
+    margin-left: 40%;    
+    margin-top: 10%;
+    padding: 20px;
+    border-radius: 15px;
+    
+}
+
+h1, label{
+    background-color: rgb(247, 202, 128);
+
+}
+
+h1{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+label{
+    margin-left:10%;
+
+}
+
+#username, #password {
+    background-color: azure;
+    position: relative;
+    left: 10%;
+    width: 80%;
+    margin-bottom: 10px;
+    ;
+}
+
+
+button {
+    background-color:  rgb(224, 144, 83);
+    position: relative;
+    left: 15%;
+    width: 70%;
+}    
+
+div input{
+    left: 10%;
+    position: relative;
+    margin-bottom: 10px;
+}
+
+button, a{
+    color: rgb(25, 30, 25);
+    font-weight: bold;
+    background:  rgb(224, 144, 83);
+
+}
+    
+
+
