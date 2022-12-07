@@ -1,4 +1,4 @@
 # mariiazhivonitko.github.io
-KOtisivu
-heio
+Homepage
+hello
 [Ensimmäinen projekti](https://mariiazhivonitko.github.io/Web-tekniikka/)
